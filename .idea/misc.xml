@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alaes/Downloads/tictactoe game/tictactoe-103/codecanyon-24523642-tic-tac-toe-simple-minimal-game/TicTacToe/app/src/main/res/layout/activity_choose.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/alaes/Downloads/tictactoe game/tictactoe-103/codecanyon-24523642-tic-tac-toe-simple-minimal-game/TicTacToe/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/alaes/Downloads/tictactoe game/tictactoe-103/codecanyon-24523642-tic-tac-toe-simple-minimal-game/TicTacToe/app/src/main/res/layout/activity_settings.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/alaes/Downloads/tictactoe game/tictactoe-103/codecanyon-24523642-tic-tac-toe-simple-minimal-game/TicTacToe/app/src/main/res/layout/activity_splash.xml" value="0.11302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>ComplianceLintAndroid</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
